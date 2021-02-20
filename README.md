@@ -1,6 +1,6 @@
 # scripts
 
-Pequeños programas para realizar tareas frecuentes en mi sistema.
+Colección de pequeños programas con funciones variadas.
 
 ### Contenido
 
