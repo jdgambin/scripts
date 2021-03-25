@@ -1,0 +1,27 @@
+oaaclassifier
+oaaclassifier: loading data...
+oaaclassifier: processing labels...
+    converting training labels...
+oaaclassifier: training perceptrons (9)...
+    percep. 1, itr 1, error 4053.7210159, diff 0.000000
+    percep. 1, itr 100, error 69.9534549, diff 0.176002
+    percep. 1, itr 200, error 60.1261406, diff 0.058792
+    percep. 1, itr 300, error 55.6997512, diff 0.034309
+    [...]
+    percep. 2, itr 5500, error 219.0967361, diff 0.004365
+    percep. 2, itr 5600, error 218.6648654, diff 0.004274
+    percep. 2, itr 5700, error 218.2418781, diff 0.004187
+    [...]
+    percep. 3, itr 1, error 3558.6922427, diff 0.000000
+    percep. 3, itr 100, error 364.7344732, diff 0.598560
+    percep. 3, itr 200, error 328.5268001, diff 0.228761
+    [...]
+    percep. 9, itr 29800, error 172.8433980, diff 0.000727
+    percep. 9, itr 29900, error 172.7708499, diff 0.000724
+    percep. 9, itr 30000, error 172.6985997, diff 0.000721
+oaaclassifier: training finished.
+    training time: 746.18771000 sec(s)
+oaaclassifier: making predictions...
+oaaclassifier: assessing predictions...
+    accuracy (on training dataset): 96.00%
+    accuracy (on test dataset): 84.60%
