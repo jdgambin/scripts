@@ -1,6 +1,6 @@
 # scripts
 
-Colección de pequeños programas con funciones variadas.
+Colección arqueológica de pequeños programas con funciones variadas.
 
 ### Contenido
 
