@@ -2,7 +2,7 @@
 
 Colección arqueológica de pequeños programas con funciones variadas.
 
-Mi único recuerdo, puesto que la mayoría de programas que he escrito, que ninguno es algo especial, los he eliminado o perdido.
+Mi único recuerdo, puesto que la mayoría de programas que he escrito (ninguno es algo especial) los he eliminado o perdido.
 
 ### Contenido
 
