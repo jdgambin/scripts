@@ -2,6 +2,8 @@
 
 Colección arqueológica de pequeños programas con funciones variadas.
 
+Mi único recuerdo, puesto que la mayoría de programas que he escrito, que ninguno es algo especial, los he eliminado o perdido.
+
 ### Contenido
 
 1. **2013-2017** — Conjunto de algunas piezas que escribí entre estos años y que redescubrí
