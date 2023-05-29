@@ -16,3 +16,6 @@ entrenamiento
 [_one-against-all_](https://en.wikipedia.org/wiki/Multiclass_classification#One-vs.-rest)
 y la base de datos
 [MINST](https://web.stanford.edu/~hastie/StatLearnSparsity_files/DATA/zipcode.html).
+
+Este proyecto está autorizado bajo los términos de la licencia _BSD 3-clause
+Clear license._
